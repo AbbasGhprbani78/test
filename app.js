@@ -7,3 +7,7 @@ const register = ({ username, password }) => {
 const login = () => {
   return true;
 };
+
+const logout = () => {
+  return true;
+};
