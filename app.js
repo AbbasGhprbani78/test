@@ -1,3 +1,5 @@
-const login = () => {
-  return true;
+const login = ({ username }) => {
+  if (username === "Abbas") {
+    return true;
+  }
 };
