@@ -6,6 +6,6 @@ const register = () => {
   return true;
 };
 
-const logiut = () => {
+const logout = () => {
   return true;
 };
