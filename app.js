@@ -12,3 +12,11 @@ const register = () => {
 const logout = () => {
   return true;
 };
+
+const checkValidInfo = () => {
+  return true;
+};
+
+const addToUser = () => {
+  return true;
+};
