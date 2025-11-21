@@ -25,6 +25,10 @@ const accessToCms = () => {
   return true;
 };
 
-const test1=()=>{
-  return true
-}
+const test1 = () => {
+  return true;
+};
+
+const getMe = () => {
+  return true;
+};
