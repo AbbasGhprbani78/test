@@ -24,3 +24,7 @@ const addToUser = () => {
 const accessToCms = () => {
   return true;
 };
+
+const test1=()=>{
+  return true
+}
