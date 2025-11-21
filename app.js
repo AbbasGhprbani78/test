@@ -20,3 +20,7 @@ const checkValidInfo = () => {
 const addToUser = () => {
   return true;
 };
+
+const accessToCms = () => {
+  return true;
+};
