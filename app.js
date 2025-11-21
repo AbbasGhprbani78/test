@@ -28,3 +28,6 @@ const accessToCms = () => {
 const test1=()=>{
   return true
 }
+const getMe=()=>{
+  return true
+}
